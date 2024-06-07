@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**renannzito/renannzito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Renan de Oliveira
 
-Here are some ideas to get you started:
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Entra em contato comigo:
+
+renanoliveira4646@gmail.com
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F674273375483964423%2F&psig=AOvVaw2MFXXiJVSRMUijqnB2nE0S&ust=1717874410903000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMDC9YObyoYDFQAAAAAdAAAAABAQ)
+
